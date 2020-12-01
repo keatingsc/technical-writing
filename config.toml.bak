@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Siobhán Keating, Technical Writer"
+
+[params.mysite]
+# footer
+Copyright = "Copyright &copy; 2020 "
+copystart = "2000"
+author = "Siobhán Keating"
+theme = "ananke"
+# Repository configuration (URLs for in-page links to opening issues and suggesting changes)
+github_repo = "https://github.com/keatingsc/technical-writing"
