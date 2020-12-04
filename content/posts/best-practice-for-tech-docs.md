@@ -1,15 +1,14 @@
 ---
-title: "Best practices for developer documentation"
-date: 2020-11-18
+title: "Best practices for technical documentation"
+date: 2020-10-28
+weight: 2
 description: >
-    Follow these best practices when developing product documentation.
+    Follow these best practices when developing technical documentation.
 ---
-
-## Structure your documentation
 
 It is important to structure your content in an easy-to-navigate manner.   
 
-### Navigation structure
+### Use a navigation structure
 
 To develop a clear visual hierarchy on your documentation website:
 
@@ -30,44 +29,35 @@ Documentation must be searchable and information easy to find. Some recommendati
 Organise your content in a logical order, including the following sections as a guide.
 
 1. Getting started
-
-Introduce your product and describe the first steps users need to complete.
+   Introduce your product and describe the first steps users need to complete.
 
 2. Tutorials
-
-Tutorials lead a reader through a series of steps to complete a defined task.
+   Tutorials lead a reader through a series of steps to complete a defined task.
 
 3. How-to guides
-
-How-to guides help intermediate or experienced users to solve a real-world task using the software.
+   How-to guides help intermediate or experienced users to solve a real-world task using the software.
 
 4. Videos
-
-Short videos and screencasts can quickly demonstrate how to complete a task.
+   Short videos and screencasts can quickly demonstrate how to complete a task.
 
 ## Code samples and scripts
 
 Code samples and downloadable scripts help users get up and running quickly.
 
-### Add code samples
+* Add code samples to help users understand a previously explained concept. Snippets can also demonstrate the syntax of attributes or parameters.
 
-Small snippets of code help users understand a previously explained concept. Snippets can also be used to demonstrate the syntax of attributes or parameters.
+* Add downloadable scripts. The sample code could also be downloadable, which is less error-prone than copying and pasting.
 
-### Add downloadable scripts
-
-The sample code could also be downloadable, which is less error-prone than copying and pasting.
-
-### Reference material
-
+## References
 Include references to the software’s code, functions, APIs, CLI, and parameters.
 
-### Glossary
+## Glossary
 
 A glossary defines all the terms specific to your company or product.
 
 ## Writing style
 
-Implement the company style guide consistently throughout the documentation suite. In general, follow the following guidelines to write clear and concise documentation.
+Implement the company style guide consistently throughout the documentation suite. In general, use the following guidelines to write clear and concise documentation.
 
 ### Topic-based writing
 
@@ -95,9 +85,9 @@ Write effective link text to help users understand where each link leads.
 * Do not use **Click here**, as this does not describe the target and negatively impacts SEO.
 * Use meaningful words or phrases in the link text for URLs.
 
-### Do not overuse tables
+### Use simple tables as quick references
 
-Use tables as quick references. Overly complex tables may be difficult to interpret, so strive for simplicity.
+Overly complex tables may be difficult to interpret, so strive for simplicity.
 
 ## Review your work
 
@@ -111,9 +101,10 @@ Ensure the documentation accurately reflects the functionality of the current re
 
 Duplicated content can introduce inconsistencies and increase maintenance overhead. To avoid duplicating content, consider reusing content and referencing strategies.  
 
-## Reference articles
+## Learn more
 
 * [The industry experts in docs-as-code](https://www.writethedocs.org/guide/docs-as-code/)
+* [The Markdown Guide](https://www.markdownguide.org/)
 * [Core Practices for Agile/Lean Documentation](http://www.agilemodeling.com/essays/agileDocumentationBestPractices.htm)
 * [Why agile teams should care about documentation](https://techbeacon.com/app-dev-testing/why-agile-teams-should-care-about-documentation)
 * [I'd Rather Be Writing, API glossary](https://idratherbewriting.com/learnapidoc/docapis_glossary_section.html)
@@ -124,7 +115,7 @@ Duplicated content can introduce inconsistencies and increase maintenance overhe
 
 * [Getting Started with Hugo](https://gohugo.io/getting-started/quick-start/)
 * [Example schema files on GitHub](https://www.twilio.com/docs/autopilot/twilio-autopilot-cli#schema-files).
-* [Create a Tyk On Premise API](https://tyk.io/docs/get-started/with-tyk-on-premise/tutorials/tyk-on-premises-pro/create-api/)
+* [Financial Times Search API](https://developer.ft.com/portal/docs-api-v1-reference-search-search-api-tutorial)
 * [Docker reference documentation](https://docs.docker.com/reference/)
 * [AWS Glossary](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html)
 * [A Sample: Array of JSON Documents](https://docs.oracle.com/en/database/other-databases/nosql-database/19.5/full-text-search/appa-json-array.html).

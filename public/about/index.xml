@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Siobhán Keating, Technical Writer</title>
+    <link>https://example.com/about/</link>
+    <description>Recent content in Abouts on Siobhán Keating, Technical Writer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Nov 2020 15:18:25 +0000</lastBuildDate><atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Siobhán Keating - Technical Writer</title>
+      <link>https://example.com/about/siobhan-keating-technical-writer/</link>
+      <pubDate>Wed, 18 Nov 2020 15:18:25 +0000</pubDate>
+      
+      <guid>https://example.com/about/siobhan-keating-technical-writer/</guid>
+      <description>I am a technical writer I love to write and I feel my writing helps people understand technology and apply knowledge in their use of an application or system. I have 20 year&amp;rsquo;s experience working in the IT sector. I include here some generic examples of my writing, to demonstrate what technical writing means to me and to describe my experience of the docs-as-code workflow.
+ What is a Technical Writer?</description>
+    </item>
+    
+  </channel>
+</rss>

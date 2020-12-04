@@ -1,38 +1,56 @@
 title = "Siobhán Keating, Technical Writer"
 baseURL = "https://example.com"
 languageCode = "en-us"
-<<<<<<< HEAD
-theme = "ananke"
-=======
-theme = "gohugo-theme-ananke"
->>>>>>> 095a2b7f1276a74a1ab37f42971ebbcc4d26215b
 
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
+# The name of this wonderful theme ;-).
+theme = "anatole"
+[[menu.main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/posts/"
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+[[menu.main]]
+name = "About me"
+weight = 200
+identifier = "about"
+url = "/about/Siobhan-Keating-Technical-Writer"
+
+[[menu.main]]
+name = "Contact"
+weight = 300
+identifier = "contact"
+url = "/contact/contact"
 
 [params]
-  favicon = ""
-  site_logo = ""
+  # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+  title = "SIOBHÁN KEATING"
+  author = "Siobhán Keating"
+  profilePicture = "images/profileSK.jpg"
   description = "A summary of what technical writing means to me."
+  ## Social links
+  # use 'fab' when brand icons, use 'fas' when standard solid icons.
+  [[params.socialIcons]]
+  icon = "fab fa-linkedin"
+  title = "Linkedin"
+  url = "https://www.linkedin.com/in/siobhan-keating2017/"
+
+  [[params.socialIcons]]
+  icon = "fab fa-github"
+  title = "GitHub"
+  url = "https://github.com/keatingsc/technical-writing"
+
+  [[params.socialIcons]]
+  icon = "fas fa-envelope"
+  title = "e-mail"
+  url = "mailto:siobhan.c.keating@gmail.com"
   # footer
-  Copyright = "Copyright &copy; 2020 "
+  # A "copyright"-line to be added at the bottom of the page.
+  # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
+  copyright = "© Siobhán Keating"
   copystart = "2000"
   author = "Siobhán Keating"
-  # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-  github_repo = "https://github.com/keatingsc/technical-writing"
-  linkedin = "https://www.linkedin.com/in/siobhan-keating2017/"
-  mastodon = ""
-  slack = ""
-  stackoverflow = ""
-  rss = ""
+
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-blue"
   featured_image = "/images/logoSK.png"
