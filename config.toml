@@ -1,7 +1,11 @@
 title = "Siobhán Keating, Technical Writer"
 baseURL = "https://example.com"
 languageCode = "en-us"
+<<<<<<< HEAD
 theme = "ananke"
+=======
+theme = "gohugo-theme-ananke"
+>>>>>>> 095a2b7f1276a74a1ab37f42971ebbcc4d26215b
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
