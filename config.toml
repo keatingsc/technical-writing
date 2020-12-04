@@ -2,28 +2,23 @@ title = "Siobhán Keating, Technical Writer"
 baseURL = "https://example.com"
 languageCode = "en-us"
 <<<<<<< HEAD
-theme = "ananke"
-=======
-theme = "gohugo-theme-ananke"
->>>>>>> 095a2b7f1276a74a1ab37f42971ebbcc4d26215b
 
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
+# The name of this wonderful theme ;-).
+theme = "hugo-scroll"
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+# This is a "one page"-website, so we do not need these kinds of pages...
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
 [params]
-  favicon = ""
+  # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+  favicon = "images/favicon.png"
+  
   site_logo = ""
   description = "A summary of what technical writing means to me."
   # footer
-  Copyright = "Copyright &copy; 2020 "
+  # A "copyright"-line to be added at the bottom of the page.
+  # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
+  copyright = "© Siobhán Keating"
   copystart = "2000"
   author = "Siobhán Keating"
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
