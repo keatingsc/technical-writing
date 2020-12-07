@@ -1,7 +1,7 @@
 title = "Siobhán Keating, Technical Writer"
-baseURL = "https://example.com"
+baseURL = "https://keatingsc.github.io"
 languageCode = "en-us"
-publishDir = "docs"
+publishDir = "public"
 
 # The name of this wonderful theme ;-).
 theme = "anatole"
@@ -37,7 +37,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   favicon = "favicons/"
-  
+
   site_logo = ""
   description = "A summary of what technical writing means to me."
   ## Social links
