@@ -29,16 +29,16 @@ Documentation must be searchable and information easy to find. Some recommendati
 Organise your content in a logical order, including the following sections as a guide.
 
 1. Getting started
-   Introduce your product and describe the first steps users need to complete.
+   * Introduce your product and describe the first steps users need to complete.
 
 2. Tutorials
-   Tutorials lead a reader through a series of steps to complete a defined task.
+   * Tutorials lead a reader through a series of steps to complete a defined task.
 
 3. How-to guides
-   How-to guides help intermediate or experienced users to solve a real-world task using the software.
+   * How-to guides help intermediate or experienced users to solve a real-world task using the software.
 
 4. Videos
-   Short videos and screencasts can quickly demonstrate how to complete a task.
+   * Short videos and screencasts can quickly demonstrate how to complete a task.
 
 ## Code samples and scripts
 

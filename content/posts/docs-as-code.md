@@ -7,7 +7,7 @@ description: >
     Find answers to commonly asked questions about using the docs-as-code workflow.
 ---
 
-A docs-as-code workflow means applying software development processes and tools to technical documentation. As a Technical Writer (TW), you write content in plain text format using a code editor, rather than a markup language like XML and a content management system. You publish docs using a static site generator rather than a complex publishing system. TWs work with docs as developers work with code, relying on a source control system to track changes in the documentation suite. Adhering to Agile principles, as TWs manage documentation, they write, review, test, merge, build, deploy and iterate.
+A docs-as-code workflow means applying software development processes and tools to technical documentation. As a Technical Writer (TW), you write content in plain text with simple markdown using a code editor, rather than using a full markup language like XML and a content management system. You publish docs using a static site generator and build scripts, rather than a complex publishing system. TWs work with docs as developers work with code, relying on a source control system to track changes in the documentation suite. Adhering to Agile principles, as TWs manage documentation projects, they write, review, test, merge, build, deploy, and iterate.
 
 ## What tools support the docs-as-code workflow?
 

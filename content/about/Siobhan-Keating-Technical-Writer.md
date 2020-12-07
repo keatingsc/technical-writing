@@ -6,7 +6,7 @@ description: >
     Siobhán Keating, Technical Writer - a brief introduction
 ---
 
-I love to write and I feel my writing helps people understand technology and apply this new knowledge when using an application or system. I have 20 years' experience working in the IT sector. I include here some generic examples of my writing, to demonstrate what technical writing means to me and to describe my experience of the docs-as-code workflow.
+I love to write and I feel my writing helps people understand technology and apply this knowledge to effectively use an application or system. I have 20 years' experience working in the IT sector. I include here some generic examples of my writing, to demonstrate what technical writing means to me and to describe my experience of the docs-as-code workflow.
 
 * [What is a Technical Writer?](/posts/what-is-a-technical-writer)
 * [Best practices for technical documentation](/posts/best-practice-for-tech-docs)
