@@ -48,12 +48,12 @@ Code samples and downloadable scripts help users get up and running quickly.
 
 * Add downloadable scripts. The sample code could also be downloadable, which is less error-prone than copying and pasting.
 
-## References
+### References
 Include references to the software’s code, functions, APIs, CLI, and parameters.
 
-## Glossary
+### Glossary
 
-A glossary defines all the terms specific to your company or product.
+Include a glossary that defines all the terms specific to your company or product.
 
 ## Writing style
 
