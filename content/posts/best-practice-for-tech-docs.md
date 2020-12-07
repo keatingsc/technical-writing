@@ -103,12 +103,12 @@ Duplicated content can introduce inconsistencies and increase maintenance overhe
 
 ## Learn more
 
-* [The industry experts in docs-as-code](https://www.writethedocs.org/guide/docs-as-code/)
+* [Developer Google Documentation Style Guide](https://developers.google.com/style/)
+* [Wrtie-the-Docs on docs-as-code](https://www.writethedocs.org/guide/docs-as-code/)
 * [The Markdown Guide](https://www.markdownguide.org/)
 * [Core Practices for Agile/Lean Documentation](http://www.agilemodeling.com/essays/agileDocumentationBestPractices.htm)
 * [Why agile teams should care about documentation](https://techbeacon.com/app-dev-testing/why-agile-teams-should-care-about-documentation)
 * [I'd Rather Be Writing, API glossary](https://idratherbewriting.com/learnapidoc/docapis_glossary_section.html)
-* [Developers Google, Link text](https://developers.google.com/style/link-text)
 * [DITA Reference topics](https://docs.oasis-open.org/dita/v1.2/os/spec/archSpec/dita_reference_topic.html)
 
 ## Some examples of good practice

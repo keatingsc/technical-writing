@@ -1,7 +1,7 @@
 title = "Siobhán Keating, Technical Writer"
 baseURL = "https://example.com"
 languageCode = "en-us"
-<<<<<<< HEAD
+publishDir = "docs"
 
 # The name of this wonderful theme ;-).
 theme = "anatole"
@@ -28,21 +28,17 @@ url = "/contact/contact"
   title = "SIOBHÁN KEATING"
   author = "Siobhán Keating"
   profilePicture = "images/profileSK.jpg"
-=======
-<<<<<<< HEAD
 
 # The name of this wonderful theme ;-).
-theme = "hugo-scroll"
+theme = "anatole"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-[params]
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   favicon = "images/favicon.png"
-  
+
   site_logo = ""
->>>>>>> f459c957545f58fc9b5e788747f6ad4559ea7202
   description = "A summary of what technical writing means to me."
   ## Social links
   # use 'fab' when brand icons, use 'fas' when standard solid icons.

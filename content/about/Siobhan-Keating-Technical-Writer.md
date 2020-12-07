@@ -2,7 +2,6 @@
 date: 2020-11-18T15:18:25Z
 featured_image: "/images/logoSK.png"
 weight: 3
-header_menu: true
 description: >
     Siobhán Keating, Technical Writer - a brief introduction
 ---

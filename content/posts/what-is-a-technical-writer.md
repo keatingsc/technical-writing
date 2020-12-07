@@ -65,3 +65,4 @@ Additional skills that you hone over time include:
 1. Strunk, William Jr.; White, E. B. (2009). The Elements of Style (5th ed.).: Allyn and Bacon
 2. King, Stephen (2000). On Writing: A Memoir of the Craft. Simon & Schuster
 3. Orwell, George (1946). Politics and the English Language. Horizon
+4. Google (2020). [Google developer documentation style guide](https://developers.google.com/style/#breaking-the-rules)
