@@ -7,3 +7,7 @@
 [submodule "themes/anatole"]
 	path = themes/anatole
 	url = https://github.com/lxndrblz/anatole.git
+[submodule "public"]
+	path = public
+	url = https://github.com/keatingsc/keatingsc.github.io.git
+	branch = main
