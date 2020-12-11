@@ -16,7 +16,7 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the Web. This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme. Compare the source file, in **markdown-syntax.md** in my [Git repository](https://github.com/keatingsc/technical-writing/tree/main/content/posts), to see how the Markdown content is rendered in this HTML output. For more details, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 <!--more-->
 
 ## Headings
